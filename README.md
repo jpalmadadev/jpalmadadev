@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpalmadadev
-- 💼 Altice Labs
+- 💼 Project Manager | Altice Labs
 - 💻 C, Java, Javascript, NodeJs, PHP, python, Visual Basic...
 - 👨‍💻 I am also on Gitlab and Bitbucket
 - 🐈‍⬛ I like cats
